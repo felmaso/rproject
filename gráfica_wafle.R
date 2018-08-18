@@ -6,3 +6,5 @@ CPais <- c('Espan/a = 17' = 17, 'Italia = 12' = 12, 'Alemania = 7' = 7,
 Colores <- c("Red", "Blue", "Brown", "Orange", "Magenta", "Green")
 waffle(CPais, rows = 4, keep = TRUE, xlab = "Campeonatos por pais (un cuadro = 1 campeonato)", title =
          "Campeonatos de la Champions League por pais", colors = Colores)
+
+## VOY PONIENDO CÓDIGO 33
